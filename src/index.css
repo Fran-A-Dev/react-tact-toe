@@ -53,3 +53,7 @@ body {
     margin-left: 20px;
   }
   
+
+  .square--winning {
+    background-color: rgb(0, 255, 76);
+  }
